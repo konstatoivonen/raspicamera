@@ -4,7 +4,7 @@ import os
 
 def button_callback(channel):
 	print("Button was pushed!")
-	os.system("/home/konsta/capture.sh")
+	os.system("/home/konsta/raspicam/capture.sh")
 
 GPIO.setwarnings(False)
 GPIO.setmode(GPIO.BCM)
