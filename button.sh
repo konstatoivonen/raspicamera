@@ -1,1 +1,1 @@
-python3 camera_button.py
+python3 /home/konsta/raspicamera/camera_button.py

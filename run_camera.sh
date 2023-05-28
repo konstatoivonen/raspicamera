@@ -1,3 +1,3 @@
 #!bin/bash
 
-/home/konsta/camera.sh
+/home/konsta/raspicamera/camera.sh
